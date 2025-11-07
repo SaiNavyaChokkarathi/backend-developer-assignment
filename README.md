@@ -9,7 +9,7 @@
 
 ## Setup
 1. Clone this repo  
-   git clone https://github.com/yourusername/backend.git
+   git clone https://github.com/SaiNavyaChokkarathi/backend.git
 2. Install dependencies  
    npm install
 3. Create .env file (see .env.example)
