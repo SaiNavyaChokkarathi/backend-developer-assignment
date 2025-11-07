@@ -51,3 +51,18 @@ backend/
 │   ├── authController.js
 │   └── taskController.js
 └── README.md
+
+frontend/
+│
+├── package.json
+├── public/
+│   └── index.html
+└── src/
+    ├── App.js
+    ├── api.js
+    ├── components/
+    │   ├── Login.js
+    │   ├── Register.js
+    │   └── Dashboard.js
+    ├── index.js
+    └── App.css
