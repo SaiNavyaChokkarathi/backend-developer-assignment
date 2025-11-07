@@ -30,3 +30,24 @@
 - Modular structure for new modules  
 - Ready for Docker and microservices  
 - Can integrate Redis caching and Nginx load balancing
+
+backend/
+│
+├── server.js
+├── package.json
+├── .env.example
+├── config/
+│   └── db.js
+├── models/
+│   ├── User.js
+│   └── Task.js
+├── routes/
+│   ├── authRoutes.js
+│   └── taskRoutes.js
+├── middleware/
+│   ├── authMiddleware.js
+│   └── roleMiddleware.js
+├── controllers/
+│   ├── authController.js
+│   └── taskController.js
+└── README.md
