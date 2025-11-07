@@ -9,11 +9,11 @@
 
 ## Setup
 1. Clone this repo  
-   git clone https://github.com/SaiNavyaChokkarathi/backend.git
-2. Install dependencies  
+   git clone https://github.com/SaiNavyaChokkarathi/backend-developer-assignment.git
+3. Install dependencies  
    npm install
-3. Create .env file (see .env.example)
-4. Start server  
+4. Create .env file (see .env.example)
+5. Start server  
    npm run dev
 
 ## API Endpoints
